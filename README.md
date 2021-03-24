@@ -1,5 +1,4 @@
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=djlimix&count_private=true&show_icons=true)
-
 ![Max's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djlimix&layout=compact)
 
 ### Hi there 👋
