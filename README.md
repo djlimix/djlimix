@@ -11,7 +11,7 @@ With my friend, we build modern websites. He makes frontend which I then transfo
 
 #### MY WORK is available [here](https://limixmedia.com).
 
-You can follow me on my [Instagram (@totendjzacky)](https://instagram.com/totendjzacky), [other Instagram (@limixmedia)](https://instagram.com/limixmedia) or [Twitter (@limixmedia)](https://twitter.com/limixmedia).
+You can follow me on my [Instagram (@djlimix_)](https://instagram.com/djlimix_), [other Instagram (@limixmedia)](https://instagram.com/limixmedia) or [Twitter (@limixmedia)](https://twitter.com/limixmedia).
 ### Have a great day! 
 
 <!--
