@@ -1,5 +1,4 @@
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=djlimix&count_private=true&show_icons=true)
-![Max's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djlimix&layout=compact)
+![Max's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djlimix)
 
 ### Hi there 👋
 
@@ -7,7 +6,7 @@ I first got in touch with code when I was 11 years old. I started making website
 
 ### So WHAT DO I DO?
 
-With my friend, we build modern websites. He makes frontend which I then transform to React or Vue or Livewire and later build backend with Laravel. We have 5+ years of experience with making websites.
+Currently working for [AMCEF](https://amcef.com)
 
 #### MY WORK is available [here](https://limix.eu).
 
