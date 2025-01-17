@@ -9,9 +9,8 @@ I first got in touch with code when I was 11 years old. I started making website
 
 With my friend, we build modern websites. He makes frontend which I then transform to React or Vue or Livewire and later build backend with Laravel. We have 5+ years of experience with making websites.
 
-#### MY WORK is available [here](https://limixmedia.com).
+#### MY WORK is available [here](https://limix.eu).
 
-You can follow me on my [Instagram (@djlimix_)](https://instagram.com/djlimix_), [other Instagram (@limixmedia)](https://instagram.com/limixmedia) or [Twitter (@limixmedia)](https://twitter.com/limixmedia).
 ### Have a great day! 
 
 <!--
